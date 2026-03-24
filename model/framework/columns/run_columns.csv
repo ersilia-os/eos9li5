@@ -1,1 +1,40 @@
 name,type,direction,description
+feat_00,integer,high,Count of coenzyme A (CoA) substructure matches
+feat_01,integer,high,Count of NADH coenzyme substructure matches
+feat_02,integer,high,Count of NADPH coenzyme substructure matches
+feat_03,integer,high,Count of standard amino acid substructure matches
+feat_04,integer,high,Count of non-standard amino acid substructure matches
+feat_05,integer,high,Count of open-chain pyranose C6O6 sugar matches
+feat_06,integer,high,Count of open-chain furanose C5O5 sugar matches
+feat_07,integer,high,Count of cyclic pyranose C5O4 sugar matches
+feat_08,integer,high,Count of cyclic furanose C4O3 sugar matches
+feat_09,integer,high,Count of indole-C2N 12-atom polyketide/NRP building block matches
+feat_10,integer,high,Count of phenyl-C2N 9-atom building block matches
+feat_11,integer,high,Count of C5N 6-atom building block matches
+feat_12,integer,high,Count of C4N 5-atom building block matches
+feat_13,integer,high,Count of phenyl-C3 9-atom strict building block matches
+feat_14,integer,high,Count of phenyl-C2 8-atom strict building block matches
+feat_15,integer,high,Count of phenyl-C1 7-atom strict building block matches
+feat_16,integer,high,Count of isoprene 5-carbon terpene building block matches
+feat_17,integer,high,Count of acetyl C2O1 metabolite building block matches
+feat_18,integer,high,Count of methylmalonyl C3 polyketide extender unit matches
+feat_19,integer,high,Count of ethyl 2-carbon building block matches
+feat_20,integer,high,Count of methyl 1-carbon building block matches
+feat_21,integer,high,Count of phosphate group matches
+feat_22,integer,high,Count of sulfonate group matches
+feat_23,integer,high,Count of fluorine halogen matches
+feat_24,integer,high,Count of chlorine halogen matches
+feat_25,integer,high,Count of bromine halogen matches
+feat_26,integer,high,Count of iodine halogen matches
+feat_27,integer,high,Count of nitrate nitrogen group matches
+feat_28,integer,high,Count of epoxide oxygen group matches
+feat_29,integer,high,Count of ether oxygen group matches
+feat_30,integer,high,Count of hydroxyl oxygen group matches
+feat_31,integer,high,Count of 3-membered carbocyclic ring matches
+feat_32,integer,high,Count of 4-membered carbocyclic ring matches
+feat_33,integer,high,Count of 5-membered carbocyclic ring matches
+feat_34,integer,high,Count of 6-membered carbocyclic ring matches
+feat_35,integer,high,Count of 7-membered carbocyclic ring matches
+feat_36,integer,high,Count of 8-membered carbocyclic ring matches
+feat_37,integer,high,Count of 9-membered carbocyclic ring matches
+feat_38,integer,high,Count of 10-membered carbocyclic ring matches

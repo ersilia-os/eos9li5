@@ -12,34 +12,28 @@ Description: BioSynFoni is a biosynthesis-informed count-based molecular
   natural product classification while being more compact and interpretable.
 Deployment:
   - Local
-  - Online
-Source: Local, Online
-Source Type: Internal, Replicated, External
-Task: Annotation, Representation, Sampling
-Subtask: Property calculation or prediction, Activity prediction, Featurization,
-  Projection, Similarity search, Generation
+Source: Local
+Source Type: External
+Task: Representation
+Subtask: Featurization
 Input:
   - Compound
 Input Dimension: 1
 Output:
   - Value
-  - Score
-  - Compound
-  - Text
-Output Dimension: 1
-Output Consistency: Fixed, Variable
-Interpretation: The output of this template model should be interpreted like 
-  this.
+Output Dimension: 39
+Output Consistency: Fixed
+Interpretation: Each of the 39 output values is a count of how many times a
+  specific biosynthetic building block substructure was matched in the input
+  molecule. Higher counts indicate a greater presence of that biosynthetic unit.
 Tag:
   - Fingerprint
   - Natural product
 Biomedical Area:
-  - Biomedical Area 1
-  - Biomedical Area 2
+  - Any
 Target Organism:
-  - Target Organism 1
-  - Target Organism 2
-Publication Type: Peer reviewed, Preprint, Other
+  - Any
+Publication Type: Peer reviewed
 Publication Year: 2025
 Publication: https://doi.org/10.1186/s13321-025-01081-6
 Source Code: https://github.com/lucinamay/biosynfoni
