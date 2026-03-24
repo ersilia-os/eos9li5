@@ -23,7 +23,7 @@ This model was incorporated on 2026-02-23.Last packaged on 2026-03-24.
 ### Output
 - **Output Dimension:** `39`
 - **Output Consistency:** `Fixed`
-- **Interpretation:** Each of the 39 output values is a count of how many times a specific biosynthetic building block substructure was matched in the input molecule. Higher counts indicate a greater presence of that biosynthetic unit.
+- **Interpretation:** Vector representation of a molecule. Higher counts indicate a greater presence of predefined biosynthetic unit.
 
 Below are the **Output Columns** of the model:
 | Name | Type | Direction | Description |
