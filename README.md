@@ -50,12 +50,12 @@ _10 of 39 columns are shown_
 ### Resource Consumption
 - **Model Size (Mb):** `1`
 - **Environment Size (Mb):** `469`
-- **Image Size (Mb):** `445.39`
+- **Image Size (Mb):** `445.46`
 
 **Computational Performance (seconds):**
-- 10 inputs: `38.98`
-- 100 inputs: `24.49`
-- 10000 inputs: `44.47`
+- 10 inputs: `38.27`
+- 100 inputs: `25.05`
+- 10000 inputs: `43.42`
 
 ### References
 - **Source Code**: [https://github.com/lucinamay/biosynfoni](https://github.com/lucinamay/biosynfoni)
