@@ -1,6 +1,6 @@
 Identifier: eos9li5
 Slug: biosynfoni
-Status: In progress
+Status: Ready
 Title: Biosynfoni natural product fingerprint
 Description: BioSynFoni is a biosynthesis-informed count-based molecular 
   fingerprint designed for natural product research. It decomposes molecules 
@@ -40,6 +40,16 @@ Source Code: https://github.com/lucinamay/biosynfoni
 License: MIT
 Contributor: GemmaTuron
 Incorporation Date: '2026-02-23'
+Last Packaging Date: '2026-03-24'
+Release: v1.0.0
 S3: https://ersilia-models-zipped.s3.eu-central-1.amazonaws.com/eos9li5.zip
+DockerHub: https://hub.docker.com/r/ersiliaos/eos9li5
+Docker Architecture: AMD64
 Model Size: 1.0
 Environment Size: 468.0
+Image Size: 445.39
+Computational Performance 1: 38.98
+Computational Performance 2: 27.63
+Computational Performance 3: 24.49
+Computational Performance 4: 27.47
+Computational Performance 5: 44.47
