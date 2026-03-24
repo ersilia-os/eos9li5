@@ -2,6 +2,7 @@
 
 BioSynFoni is a biosynthesis-informed count-based molecular fingerprint designed for natural product research. It decomposes molecules into 39 biosynthetic building block substructures derived from Dewicks classification of natural product biosynthetic pathways. The fingerprint is computed via SMARTS substructure matching using RDKit and returns an integer count vector. It was shown to outperform MACCS, Morgan, and Daylight-like fingerprints for biosynthetic distance estimation and performs comparably for natural product classification while being more compact and interpretable.
 
+This model was incorporated on 2026-02-23.
 
 
 ## Information
@@ -43,8 +44,11 @@ _10 of 39 columns are shown_
 ### Source and Deployment
 - **Source:** `Local`
 - **Source Type:** `External`
+- **S3 Storage**: [https://ersilia-models-zipped.s3.eu-central-1.amazonaws.com/eos9li5.zip](https://ersilia-models-zipped.s3.eu-central-1.amazonaws.com/eos9li5.zip)
 
 ### Resource Consumption
+- **Model Size (Mb):** `1`
+- **Environment Size (Mb):** `468`
 
 
 ### References
