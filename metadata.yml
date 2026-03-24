@@ -23,8 +23,8 @@ Output:
   - Value
 Output Dimension: 39
 Output Consistency: Fixed
-Interpretation: Each of the 39 output values is a count of how many times a
-  specific biosynthetic building block substructure was matched in the input
+Interpretation: Each of the 39 output values is a count of how many times a 
+  specific biosynthetic building block substructure was matched in the input 
   molecule. Higher counts indicate a greater presence of that biosynthetic unit.
 Tag:
   - Fingerprint
@@ -39,3 +39,4 @@ Publication: https://doi.org/10.1186/s13321-025-01081-6
 Source Code: https://github.com/lucinamay/biosynfoni
 License: MIT
 Contributor: GemmaTuron
+Incorporation Date: '2026-02-23'
