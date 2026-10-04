@@ -23,8 +23,8 @@ Output:
   - Value
 Output Dimension: 39
 Output Consistency: Fixed
-Interpretation: Vector representation of a molecule. Higher counts indicate a 
-  greater presence of predefined biosynthetic unit.
+Interpretation: Counts of 39 biosynthetic building-block substructures, where higher
+  values indicate more matches of that motif.
 Tag:
   - Fingerprint
   - Natural product
